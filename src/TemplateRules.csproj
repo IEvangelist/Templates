@@ -63,6 +63,7 @@
               Rules\StarterWeb\IndividualAuth\Models\ManageViewModels\RemoveLoginViewModel.cs;
               Rules\StarterWeb\IndividualAuth\Models\ManageViewModels\SetPasswordViewModel.cs;
               Rules\StarterWeb\IndividualAuth\Models\ManageViewModels\VerifyPhoneNumberViewModel.cs;
+              Rules\StarterWeb\IndividualAuth\Views\Account\AccessDenied.cshtml;
               Rules\StarterWeb\IndividualAuth\Views\Account\ConfirmEmail.cshtml;
               Rules\StarterWeb\IndividualAuth\Views\Account\ExternalLoginConfirmation.cshtml;
               Rules\StarterWeb\IndividualAuth\Views\Account\ExternalLoginFailure.cshtml;

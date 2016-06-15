@@ -270,6 +270,7 @@
           <AddFile Destination="Services\IEmailSender.cs" Source="Rules\StarterWeb\IndividualAuth\Services\IEmailSender.cs"/>
           <AddFile Destination="Services\ISmsSender.cs" Source="Rules\StarterWeb\IndividualAuth\Services\ISmsSender.cs"/>
           <AddFile Destination="Services\MessageServices.cs" Source="Rules\StarterWeb\IndividualAuth\Services\MessageServices.cs"/>
+          <AddFile Destination="Views\Account\AccessDenied.cshtml" Source="Rules\StarterWeb\IndividualAuth\Views\Account\AccessDenied.cshtml"/>
           <AddFile Destination="Views\Account\ConfirmEmail.cshtml" Source="Rules\StarterWeb\IndividualAuth\Views\Account\ConfirmEmail.cshtml"/>
           <AddFile Destination="Views\Account\ExternalLoginConfirmation.cshtml" Source="Rules\StarterWeb\IndividualAuth\Views\Account\ExternalLoginConfirmation.cshtml"/>
           <AddFile Destination="Views\Account\ExternalLoginFailure.cshtml" Source="Rules\StarterWeb\IndividualAuth\Views\Account\ExternalLoginFailure.cshtml"/>
